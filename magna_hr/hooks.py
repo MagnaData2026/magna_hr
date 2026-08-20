@@ -5,6 +5,10 @@ app_description = "magna hrms"
 app_email = "prince.gupta@magnadata.in"
 app_license = "mit"
 
+
+extend_bootinfo = "magna_hr.boot.extend_bootinfo"
+
+
 # Apps
 # ------------------
 
