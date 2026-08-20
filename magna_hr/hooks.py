@@ -6,6 +6,11 @@ app_email = "prince.gupta@magnadata.in"
 app_license = "mit"
 
 
+app_include_js = [
+	"magna_hr.bundle.js",
+]
+
+
 extend_bootinfo = "magna_hr.boot.extend_bootinfo"
 
 
