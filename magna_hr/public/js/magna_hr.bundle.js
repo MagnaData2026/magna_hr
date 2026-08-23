@@ -1,3 +1,6 @@
+import "./switcher/theme_manager";
+import "./switcher/theme_switcher";
+
 console.log("Magna HR Desk JS loaded");
 
 $(document).on("app_ready", function () {
